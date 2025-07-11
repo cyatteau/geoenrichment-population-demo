@@ -4,6 +4,8 @@ Fetch current demographic estimates (population, households, average household s
 
 This repo supports my World Population Day post.
 
+<img width="690.6" height="516.6" alt="image" src="https://github.com/user-attachments/assets/8f63a239-6b42-4ebf-804e-23fec4df3731" />
+
 ## What it does
 * Sends one request to the **ArcGIS GeoEnrichment** service  
 * Prints key attributes for a study area you supply  
